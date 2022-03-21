@@ -1,0 +1,150 @@
+utterance,speech_intent,es_speech_intent_detect_conf,nbr_calls
+space heater hours,Store Hours,0.78,298
+my schedule,Store Details,0.83,236
+reschedule,Store Details,0.8,203
+lawnmower hours,Store Hours,0.85,148
+shut up,Store Hours,0.8,129
+portable generator hours,Store Hours,0.82,128
+recycle light bulbs,Store Details,0.8,124
+light bulb recycling,Store Details,0.77,120
+electric heater hours,Store Hours,0.82,119
+1 lb propane tank,Store Details,0.8,107
+closing,Store Hours,0.84,104
+are ya'll open,Store Hours,0.85,97
+recycling light bulbs,Store Details,0.78,92
+office hours,Store Hours,0.84,86
+propane tank re Phil,Store Details,0.8,81
+tree recycling,Store Details,0.79,80
+20 lb propane tank,Store Details,0.8,78
+no blower hours,Store Hours,0.82,75
+cutting,Store Details,0.84,66
+cut,Store Details,0.77,64
+Coleman propane tank,Store Details,0.76,63
+cut wood,Store Details,0.85,56
+Coleman propane,Store Details,0.84,51
+Lumber cutting,Store Details,0.84,51
+kids kit,Store Details,0.79,50
+working hours,Store Hours,0.84,47
+store address,Store Address,0.78,41
+kids projects,Store Details,0.75,40
+cutting Center,Store Details,0.82,40
+1 lb propane tanks,Store Details,0.8,40
+small propane tanks,Store Details,0.83,39
+recycle fluorescent tubes,Store Details,0.85,38
+recycling program,Store Details,0.76,38
+small propane tank,Store Details,0.83,37
+cutting Lumber,Store Details,0.81,37
+Home Depot hours,Store Hours,0.83,37
+Coleman propane tanks,Store Details,0.76,36
+recycle fluorescent light bulbs,Store Details,0.81,35
+kids project,Store Details,0.78,35
+missed Ur heater propane heater,Store Details,0.84,32
+a hundred pounds propane tank,Store Details,0.82,31
+storage container hours,Store Hours,0.78,30
+cut Lumber,Store Details,0.77,29
+make a copy of a key,Store Details,0.85,29
+recycle bulbs,Store Details,0.81,28
+are you smelt,Store Address,0.8,27
+Raj door openers,Store Hours,0.85,26
+fire extinguisher hours,Store Hours,0.85,26
+propane tank refill,Store Details,0.85,26
+fluorescent bulb recycling,Store Details,0.83,26
+question about recycling,Store Details,0.84,25
+is your store open,Store Hours,0.82,25
+paint recycling,Store Details,0.81,24
+are they open,Store Hours,0.81,24
+cutting services,Store Details,0.83,24
+propane wall heater,Store Details,0.84,23
+40 lb propane tank,Store Details,0.82,23
+do you recycle fluorescent bulbs,Store Details,0.84,22
+exchange propane tank,Store Details,0.85,22
+recycle lights,Store Details,0.82,21
+are you open today January 1st,Store Hours,0.72,21
+recycling fluorescent tubes,Store Details,0.84,21
+are yall open,Store Hours,0.85,20
+recycling question,Store Details,0.78,20
+what's your address,Store Address,0.72,20
+is it open,Store Hours,0.83,19
+refill propane tank,Store Details,0.83,19
+a hundred pound propane tank,Store Details,0.81,19
+ladder hours,Store Hours,0.84,19
+to schedule,Store Details,0.81,19
+30 lb propane tank,Store Details,0.82,19
+children's Workshop,Store Details,0.73,19
+carpet cleaner hours,Store Hours,0.81,18
+Appliance Recycling,Store Details,0.73,17
+cutting blinds,Store Details,0.81,17
+your location,Store Address,0.78,17
+recycling fluorescent light bulbs,Store Details,0.8,17
+100 lb propane tank,Store Details,0.79,17
+missed Ur heater propane,Store Details,0.84,16
+Workshop kit,Store Details,0.72,16
+are you still open,Store Hours,0.81,16
+do you recycle light bulbs,Store Details,0.82,15
+recycling lights,Store Details,0.8,15
+what time does Home Depot close,Store Hours,0.83,15
+hours of service,Store Hours,0.84,15
+schedule change,Store Details,0.72,15
+electronics recycling,Store Details,0.79,15
+100lb propane tank,Store Details,0.75,15
+oh shut up,Store Hours,0.82,15
+if the store is open,Store Hours,0.75,15
+recycle fluorescent lights,Store Details,0.81,14
+I need your address,Store Address,0.84,14
+recycle paint,Store Details,0.83,14
+Lumber cut,Store Details,0.79,14
+snow blower key,Store Details,0.85,14
+missed Ur Buddy propane heater,Store Details,0.82,14
+camping propane tanks,Store Details,0.79,14
+refill propane tanks,Store Details,0.83,14
+what's the store number,Store Details,0.74,14
+where is it located,Store Address,0.73,14
+tree recycle,Store Details,0.81,14
+key gravel,Store Details,0.84,14
+lighting fixture hours,Store Hours,0.85,14
+times,Store Hours,0.78,14
+cut plywood,Store Details,0.78,14
+details,Store Details,0.83,14
+kids crafts kit,Store Details,0.82,13
+do you recycle Christmas trees,Store Details,0.7,13
+20 gallon propane tank,Store Details,0.76,13
+kids workshop project,Store Details,0.85,13
+lock rekey,Store Details,0.79,13
+propane Phil,Store Details,0.85,13
+Phil propane tank,Store Details,0.77,13
+attic ladder hours,Store Hours,0.79,13
+camping propane tank,Store Details,0.79,12
+Keith cutting,Store Details,0.73,12
+propane heater head,Store Details,0.85,12
+cardboard recycling,Store Details,0.8,12
+riding mower hours,Store Hours,0.8,12
+for kids,Store Details,0.78,12
+store closing,Store Hours,0.78,12
+hours of business,Store Hours,0.85,12
+do you recycle fluorescent light bulbs,Store Details,0.83,12
+schedule a,Store Details,0.83,12
+cutting metal,Store Details,0.77,11
+schedule schedule,Store Details,0.81,11
+directions to store,Store Address,0.85,11
+the store is open,Store Address,0.76,11
+it's Home Depot open today,Store Hours,0.83,11
+step ladder hours,Store Hours,0.79,11
+hours and location,Store Hours,0.85,11
+cut blinds,Store Details,0.75,11
+Home Depot open,Store Hours,0.79,11
+Garden Center hours,Store Hours,0.84,11
+dresser hours,Store Hours,0.84,11
+recycling bulbs,Store Details,0.79,11
+1 pound propane bottles,Store Details,0.85,10
+Kyle cutting,Store Details,0.83,10
+location of store,Store Address,0.84,10
+cut plexiglass,Store Details,0.85,10
+fluorescent light bulb recycling,Store Details,0.78,10
+metal cutting,Store Details,0.77,10
+are you smell,Store Hours,0.75,10
+H hours,Store Hours,0.8,10
+a pro propane heater,Store Details,0.85,10
+Raj door opener,Store Hours,0.82,10
+fluorescent tube recycling,Store Details,0.83,10
+recycling information,Store Details,0.75,10
+call to recycle,Store Details,0.78,10
